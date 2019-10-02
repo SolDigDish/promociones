@@ -1,0 +1,49 @@
+.dish{
+	margin-bottom: 1.5rem;
+}
+.bia{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+.pdoble{
+	color: #8947ad;
+	font-weight: 700;
+	text-align: center;
+}
+.tex-1{
+	color: #3c3935;
+	font-size: 1.5rem;
+	font-weight: 600;
+}
+.correo{
+	color: #8947ad;
+	font-size: 2rem;
+
+}
+.consulta{
+	font-size: 1.1rem;
+	font-weight: 600;
+	color: #3c3935;
+}
+.enlace{
+	color: #8947ad;
+}
+.base{
+	font-size: 0.7rem;
+	color: #3c3935;
+}
+.box1{
+	margin-top:1%; 
+}
+.btn-morado{
+	background: #8947ad;
+	padding: 1rem 1.5rem;
+	color: #FFF;
+	border-radius: 10px;
+}
+.btn-morado:hover{
+	background: #8947ad;
+	padding: 1rem 1.5rem;
+	color: #FFF;
+	border-radius: 10px;
+}
