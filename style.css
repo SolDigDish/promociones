@@ -1,5 +1,5 @@
 body{
-	background: #EBEBEB;
+	background: #f0f0f0;
 }
 .fondo{
 	background: #FFF;
@@ -56,6 +56,13 @@ body{
  .mylittle-pony{
   	width: 80%;
   }
+.mlp-box1{
+	background: #f0f0f0;
+	text-align: right;
+}
+.mlp-box2{
+	padding: 2rem;
+}
 
 @media only screen and (max-width: 1024px) {
   .pdoble{
@@ -85,4 +92,12 @@ body{
   .mylittle-pony{
   	width: 100%;
   }
+.mlp-box1{
+	text-align: center;
+	
+}
+.mlp-box2{
+	text-align: center;
+
+}
 }
