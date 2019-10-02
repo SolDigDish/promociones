@@ -1,3 +1,9 @@
+body{
+	background: #EBEBEB;
+}
+.fondo{
+	background: #FFF;
+}
 .dish{
 	margin-bottom: 1.5rem;
 }
@@ -46,4 +52,37 @@
 	padding: 1rem 1.5rem;
 	color: #FFF;
 	border-radius: 10px;
+}
+ .mylittle-pony{
+  	width: 80%;
+  }
+
+@media only screen and (max-width: 1024px) {
+  .pdoble{
+  	font-size: 1.5rem;
+  }
+  h2{
+  	font-size: 1.2rem !important;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .mylittle-pony{
+  	width: 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .pdoble{
+  	font-size: 1.3rem;
+  }
+  h2{
+  	font-size: 1rem !important;
+  }
+  .tex-1{
+  	font-size: 1.2rem;
+  }
+  .mylittle-pony{
+  	width: 100%;
+  }
 }
